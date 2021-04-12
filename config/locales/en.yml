@@ -29,5 +29,12 @@
 # To learn more, please read the Rails Internationalization guide
 # available at https://guides.rubyonrails.org/i18n.html.
 
-en:
-  hello: "Hello world"
+ ja:
+      activerecord:
+        models:
+          user: ユーザー
+        attributes:
+          user:
+            title: タイトル
+            star: 開始日
+            finis: 終了日
